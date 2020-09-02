@@ -1,5 +1,5 @@
 {
     "workbench.startupEditor": "newUntitledFile",
-    "files.autoSave": "afterDelay",
+    "files.autoSave": "off",
     "workbench.colorTheme": "Solarized Light"
 }

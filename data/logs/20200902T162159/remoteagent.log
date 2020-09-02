@@ -1,0 +1,2 @@
+[2020-09-02 16:22:09.428] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'
+[2020-09-02 16:22:09.429] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'

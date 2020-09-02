@@ -1,0 +1,107 @@
+Looking for git in: git
+Using git 2.26.0 from git
+> git rev-parse --git-dir
+Open repository: /workspace/test-code-server
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- /workspace/test-code-server/.gitpod.yml /workspace/test-code-server/.vscode/settings.json /workspace/test-code-server/data/CachedExtensionVSIXs/shan.code-settings-sync-3.4.3 /workspace/test-code-server/data/User/machineid /workspace/test-code-server/data/User/state/-79ed77e0.json /workspace/test-code-server/data/User/state/global.json /workspace/test-code-server/data/User/syncLocalSettings.json /workspace/test-code-server/data/User/workspaceStorage/-79ed77e0/meta.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/.vsixmanifest /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/CHANGELOG.md /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/LICENSE.txt /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/README.md /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/configs/webpack.config.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/configs/webpack.development.config.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/configs/webpack.production.config.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/images/existing-gist.png /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/images/login-with-github.png /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/images/logo-128.png /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/images/logo-256.png /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/images/logo-512.png /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/images/logo.sketch /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/images/slack.png /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/images/white-cloud.png /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/install_local.txt /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.de.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.es.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.fr.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.hu.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.it.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.ja.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.ko.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.pt-br.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.ru.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.tr.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.zh-cn.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/package.nls.zh-tw.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/release-notes.json /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/gist-selection/gist-selection.html /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/gist-selection/gist-selection.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/landing-page/landing-page.html /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/landing-page/landing-page.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/settings/settings.html /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/settings/settings.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/fonts.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/page-header.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/styles.css /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/bootstrap/css/bootstrap.min.css /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/bootstrap/js/bootstrap.min.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/fontawesome/css/fontawesome.min.css /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/fontawesome/css/solid.min.css /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/fontawesome/webfonts/fa-solid-900.ttf /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/google/OpenSans-Bold.ttf /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/google/Roboto-Bold.ttf /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/google/Roboto-Regular.ttf /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/jquery/jquery-3.3.1.slim.min.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/lodash/lodash.min.js /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/ui/shared/vendor/popper.js/popper.min.js /workspace/test-code-server/data/logs/20200902T155341/extension-host/exthost.log /workspace/test-code-server/data/logs/20200902T155341/extension-host/output_logging_20200902T155423/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200902T155341/extension-host/output_logging_20200902T155423/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200902T155341/extension-host/output_logging_20200902T155428/3-Git.log /workspace/test-code-server/data/logs/20200902T155341/extension-host/output_logging_20200902T155650/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200902T155341/extension-host/output_logging_20200902T155650/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200902T155341/extension-host/output_logging_20200902T155651/3-Git.log /workspace/test-code-server/data/logs/20200902T155341/remoteagent.log /workspace/test-code-server/data/machineid

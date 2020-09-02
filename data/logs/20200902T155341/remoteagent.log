@@ -1,0 +1,11 @@
+[2020-09-02 15:53:53.055] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'
+[2020-09-02 15:53:53.055] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'
+[2020-09-02 15:53:53.064] [remoteagent] [error] /workspace/test-code-server/data/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/workspace/test-code-server/data/extensions"}
+[2020-09-02 15:55:31.752] [remoteagent] [info] Installing extension: shan.code-settings-sync
+[2020-09-02 15:55:31.895] [remoteagent] [info] Downloaded extension: shan.code-settings-sync /workspace/test-code-server/data/CachedExtensionVSIXs/shan.code-settings-sync-3.4.3
+[2020-09-02 15:55:32.051] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.shan.code-settings-sync-3.4.3: shan.code-settings-sync
+[2020-09-02 15:55:32.051] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3
+[2020-09-02 15:55:32.053] [remoteagent] [info] Installation completed. shan.code-settings-sync
+[2020-09-02 15:55:32.076] [remoteagent] [info] Extensions installed successfully: shan.code-settings-sync
+[2020-09-02 15:55:49.286] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'
+[2020-09-02 15:55:49.286] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'

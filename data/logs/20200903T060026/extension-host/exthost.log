@@ -1,0 +1,335 @@
+[2020-09-03 06:02:41.774] [exthost] [info] extension host started
+[2020-09-03 06:14:19.183] [exthost] [info] extension host started
+[2020-09-03 06:14:31.873] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-09-03 06:14:31.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension
+[2020-09-03 06:14:31.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:14:31.918] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:14:31.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:14:31.922] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:14:31.955] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:14:31.955] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:14:32.047] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:14:32.047] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:14:32.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:14:32.071] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:14:32.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:14:32.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:14:32.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:14:32.099] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:14:32.103] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:14:32.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:14:32.249] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:14:32.249] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:14:32.265] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:14:32.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:14:32.540] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:14:32.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:14:32.669] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:14:32.669] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:14:34.632] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:14:45.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:14:45.018] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:14:48.775] [exthost] [info] eager extensions activated
+[2020-09-03 06:28:56.836] [exthost] [info] extension host started
+[2020-09-03 06:28:57.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:28:57.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:28:57.715] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:28:57.716] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:28:57.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:28:57.752] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:28:57.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:28:57.822] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:28:57.840] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:28:57.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:28:57.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:28:57.847] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:28:57.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:28:57.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:28:57.865] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:28:57.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:28:58.029] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:28:58.029] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:28:58.046] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:28:58.047] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:28:58.347] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:28:58.348] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:28:58.476] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:28:58.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:28:58.863] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:29:01.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:29:01.250] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:29:01.509] [exthost] [info] eager extensions activated
+[2020-09-03 06:30:16.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:30:16.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-03 06:30:16.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:30:16.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-03 06:30:16.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:30:16.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension
+[2020-09-03 06:31:42.773] [exthost] [info] extension host started
+[2020-09-03 06:31:43.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:31:43.473] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:31:43.479] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:31:43.479] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:31:43.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:31:43.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:31:43.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:31:43.574] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:31:43.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:31:43.590] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:31:43.595] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:31:43.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:31:43.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:31:43.610] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:31:43.612] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:31:43.612] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:31:43.772] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:31:43.772] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:31:43.788] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:31:43.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:31:44.061] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:31:44.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:31:44.196] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:31:44.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:31:44.560] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:31:45.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:31:45.759] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:31:46.122] [exthost] [info] eager extensions activated
+[2020-09-03 06:33:10.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:33:10.436] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-03 06:33:10.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:33:10.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-03 06:33:10.480] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:33:10.480] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension
+[2020-09-03 06:34:22.968] [exthost] [info] extension host started
+[2020-09-03 06:34:23.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:34:23.760] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:34:23.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:34:23.767] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:34:23.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:34:23.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:34:23.910] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:34:23.910] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:34:23.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:34:23.927] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:34:23.932] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:34:23.932] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:34:23.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:34:23.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:34:23.953] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:34:23.954] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:34:24.127] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:34:24.127] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:34:24.156] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:34:24.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:34:24.430] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:34:24.430] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:34:24.547] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:34:24.547] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:34:25.148] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:34:29.787] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:34:29.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:34:30.029] [exthost] [info] eager extensions activated
+[2020-09-03 06:34:34.731] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:34:34.731] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-03 06:34:34.738] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:34:34.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-03 06:34:34.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:34:34.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension
+[2020-09-03 06:40:17.825] [exthost] [info] extension host started
+[2020-09-03 06:40:18.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:40:18.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-03 06:40:18.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:40:18.546] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-03 06:40:18.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:40:18.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension
+[2020-09-03 06:40:18.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:40:18.640] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:40:18.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:40:18.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:40:18.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:40:18.686] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:40:18.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:40:18.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:40:18.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:40:18.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:40:18.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:40:18.803] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:40:18.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:40:18.821] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:40:18.823] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:40:18.823] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:40:18.960] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:40:18.960] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:40:18.976] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:40:18.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:40:19.292] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:40:19.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:40:19.423] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:40:19.424] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:40:22.209] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:40:38.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:40:38.566] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:40:41.906] [exthost] [info] eager extensions activated
+[2020-09-03 06:46:39.104] [exthost] [info] extension host started
+[2020-09-03 06:46:39.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:46:39.879] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:46:39.884] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:46:39.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:46:39.915] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:46:39.915] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:46:39.982] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:46:39.982] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:46:39.999] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:46:39.999] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:46:40.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:46:40.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:46:40.022] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:46:40.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:46:40.024] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:46:40.024] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:46:40.170] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:46:40.170] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:46:40.186] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:46:40.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:46:40.440] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:46:40.440] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:46:40.565] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:46:40.565] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:46:40.940] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:46:44.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:46:44.059] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:46:44.295] [exthost] [info] eager extensions activated
+[2020-09-03 06:49:00.576] [exthost] [info] extension host started
+[2020-09-03 06:49:01.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:49:01.538] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:49:01.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:49:01.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:49:01.578] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:49:01.578] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:49:01.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:49:01.651] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:49:01.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:49:01.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:49:01.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:49:01.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:49:01.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:49:01.701] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:49:01.703] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:49:01.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:49:01.826] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:49:01.826] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:49:01.846] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:49:01.846] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:49:02.122] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:49:02.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:49:02.241] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:49:02.241] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:49:02.644] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:49:04.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:49:04.032] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:49:04.259] [exthost] [info] eager extensions activated
+[2020-09-03 06:49:27.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:49:27.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-03 06:49:27.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:49:27.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-03 06:49:27.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:49:27.231] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension
+[2020-09-03 06:50:23.583] [exthost] [info] extension host started
+[2020-09-03 06:50:24.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:50:24.313] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:50:24.319] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:50:24.319] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:50:24.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:50:24.373] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:50:24.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:50:24.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:50:24.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:50:24.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:50:24.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:50:24.517] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:50:24.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:50:24.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:50:24.544] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:50:24.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:50:24.715] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:50:24.715] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:50:24.731] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:50:24.731] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:50:25.063] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:50:25.063] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:50:25.208] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:50:25.208] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:50:25.575] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:50:28.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:50:28.025] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:50:28.435] [exthost] [info] eager extensions activated
+[2020-09-03 06:52:32.276] [exthost] [info] extension host started
+[2020-09-03 06:52:33.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:52:33.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:52:33.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:52:33.114] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:52:33.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:52:33.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:52:33.227] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:52:33.227] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:52:33.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:52:33.250] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:52:33.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:52:33.258] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:52:33.274] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:52:33.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:52:33.275] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:52:33.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:52:33.407] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:52:33.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:52:33.425] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:52:33.425] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:52:33.691] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:52:33.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:52:33.815] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:52:33.815] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:52:36.808] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:52:39.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:52:39.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:52:40.067] [exthost] [info] eager extensions activated
+[2020-09-03 06:53:06.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:53:06.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-03 06:53:06.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:53:06.114] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-03 06:53:06.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:53:06.166] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension
+[2020-09-03 06:55:32.936] [exthost] [info] extension host started
+[2020-09-03 06:55:33.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-03 06:55:33.671] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-09-03 06:55:33.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-03 06:55:33.677] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-03 06:55:33.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:55:33.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-09-03 06:55:33.776] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-09-03 06:55:33.776] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-09-03 06:55:33.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-03 06:55:33.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-03 06:55:33.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-09-03 06:55:33.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/microsoft-authentication/dist/extension.js
+[2020-09-03 06:55:33.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-03 06:55:33.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-09-03 06:55:33.816] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-09-03 06:55:33.816] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-09-03 06:55:33.944] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-09-03 06:55:33.944] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0/dist/extension
+[2020-09-03 06:55:33.964] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-03 06:55:33.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-03 06:55:34.223] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2020-09-03 06:55:34.223] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2020-09-03 06:55:34.387] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-09-03 06:55:34.387] [exthost] [info] ExtensionService#loadCommonJSModule file:///workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-09-03 06:55:35.774] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-03 06:55:40.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-03 06:55:40.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-09-03 06:55:40.529] [exthost] [info] eager extensions activated
+[2020-09-03 06:55:42.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:55:42.324] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-03 06:55:42.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:55:42.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-03 06:55:42.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-03 06:55:42.372] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension

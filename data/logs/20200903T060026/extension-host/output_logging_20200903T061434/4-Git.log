@@ -1,0 +1,34 @@
+Looking for git in: git
+Using git 2.26.0 from git
+> git rev-parse --git-dir
+Open repository: /workspace/backend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :gg.js
+> git ls-files --stage -- /workspace/backend/gg.js
+> git cat-file -s 3b956eb4256ca1ef96a465ef1a7026adf46c3270
+> git push -u backend master
+To https://github.com/havengarfx/backend.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/havengarfx/backend.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git push -u backend master
+To https://github.com/havengarfx/backend.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/havengarfx/backend.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.

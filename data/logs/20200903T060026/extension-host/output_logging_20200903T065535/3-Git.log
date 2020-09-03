@@ -1,0 +1,372 @@
+Looking for git in: git
+Using git 2.26.0 from git
+> git rev-parse --git-dir
+Open repository: /workspace/backend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git rev-parse --git-dir
+Open repository: /workspace/test-code-server
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /workspace/test-code-server/data/User/state/-79ed77e0.json /workspace/test-code-server/data/User/state/empty-window.json /workspace/test-code-server/data/User/state/global.json /workspace/test-code-server/data/logs/20200902T222844/extension-host/exthost.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T013130/3-Git.log /workspace/test-code-server/data/User/Workspaces/Untitled-1599098393712.code-workspace /workspace/test-code-server/data/User/Workspaces/Untitled-1599115989191.code-workspace /workspace/test-code-server/data/User/state/-25520b1a.json /workspace/test-code-server/data/User/state/-304495d7.json /workspace/test-code-server/data/User/state/-5a986aa9.json /workspace/test-code-server/data/User/state/-7c166e24.json /workspace/test-code-server/data/User/state/-7fbcf80.json /workspace/test-code-server/data/User/state/1179863d.json /workspace/test-code-server/data/User/workspaceStorage/-25520b1a/meta.json /workspace/test-code-server/data/User/workspaceStorage/-304495d7/meta.json /workspace/test-code-server/data/User/workspaceStorage/-5a986aa9/meta.json /workspace/test-code-server/data/User/workspaceStorage/-7c166e24/meta.json /workspace/test-code-server/data/User/workspaceStorage/-7fbcf80/meta.json /workspace/test-code-server/data/User/workspaceStorage/1179863d/meta.json /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020033/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020033/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020034/3-Git.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020034/4-Prettier.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020212/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020212/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020219/3-Git.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020219/4-Prettier.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020530/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020531/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020532/3-Git.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020532/4-Prettier.log /workspace/test-code-server/data/logs/20200902T222844/extension-host/output_logging_20200903T020719/5-TypeScript.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/exthost.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T061432/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T061432/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T061434/3-TypeScript.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T061434/4-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T061434/5-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T062857/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T062857/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T062858/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T062858/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T063143/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T063143/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T063144/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T063144/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T063423/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T063423/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T063425/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T063425/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064018/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064018/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064022/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064022/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064639/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064640/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064640/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064640/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064901/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064901/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064902/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T064902/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065024/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065024/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065025/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065025/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065233/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065233/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065236/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065236/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065533/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065533/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065535/3-Git.log /workspace/test-code-server/data/logs/20200903T060026/extension-host/output_logging_20200903T065535/4-Prettier.log /workspace/test-code-server/data/logs/20200903T060026/remoteagent.log /workspace/test-code-server/workspace.code-workspace

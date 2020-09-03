@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "uri": "vscode-remote://localhost:8080/workspace/test-code-server"
+    },
+    {
+      "uri": "vscode-remote://localhost:8080/workspace/backend"
+    }
+  ],
+  "remoteAuthority": "localhost:8080",
+  "settings": {}
+}

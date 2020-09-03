@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://localhost:8080/workspace/.gitpod"
+		},
+		{
+			"uri": "vscode-remote://localhost:8080/workspace/test-code-server"
+		}
+	],
+	"remoteAuthority": "localhost:8080",
+	"settings": {}
+}

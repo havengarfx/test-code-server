@@ -4,3 +4,9 @@
 [2020-09-03 10:24:40.168] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'
 [2020-09-03 10:26:25.399] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'
 [2020-09-03 10:26:25.399] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/test-code-server/data/User/snippets'
+[2020-09-03 11:31:38.988] [remoteagent] [info] Installing extension: vector-of-bool.gitflow
+[2020-09-03 11:31:39.309] [remoteagent] [info] Downloaded extension: vector-of-bool.gitflow /workspace/test-code-server/data/CachedExtensionVSIXs/vector-of-bool.gitflow-1.2.1
+[2020-09-03 11:31:39.373] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.vector-of-bool.gitflow-1.2.1: vector-of-bool.gitflow
+[2020-09-03 11:31:39.374] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/vector-of-bool.gitflow-1.2.1
+[2020-09-03 11:31:39.375] [remoteagent] [info] Installation completed. vector-of-bool.gitflow
+[2020-09-03 11:31:39.398] [remoteagent] [info] Extensions installed successfully: vector-of-bool.gitflow

@@ -1,0 +1,42 @@
+[2020-09-03 01:24:06.200] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2020-09-03 01:24:06.503] [remoteagent] [info] Downloaded extension: naumovs.color-highlight /workspace/test-code-server/data/CachedExtensionVSIXs/naumovs.color-highlight-2.2.0
+[2020-09-03 01:24:06.596] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.naumovs.color-highlight-2.2.0: naumovs.color-highlight
+[2020-09-03 01:24:06.597] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/naumovs.color-highlight-2.2.0
+[2020-09-03 01:24:06.597] [remoteagent] [info] Installation completed. naumovs.color-highlight
+[2020-09-03 01:24:06.620] [remoteagent] [info] Extensions installed successfully: naumovs.color-highlight
+[2020-09-03 01:24:09.587] [remoteagent] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2020-09-03 01:24:09.951] [remoteagent] [info] Downloaded extension: msjsdiag.debugger-for-chrome /workspace/test-code-server/data/CachedExtensionVSIXs/msjsdiag.debugger-for-chrome-4.12.10
+[2020-09-03 01:24:10.437] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.msjsdiag.debugger-for-chrome-4.12.10: msjsdiag.debugger-for-chrome
+[2020-09-03 01:24:10.438] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/msjsdiag.debugger-for-chrome-4.12.10
+[2020-09-03 01:24:10.439] [remoteagent] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2020-09-03 01:24:10.463] [remoteagent] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2020-09-03 01:24:15.415] [remoteagent] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2020-09-03 01:24:15.710] [remoteagent] [info] Downloaded extension: dsznajder.es7-react-js-snippets /workspace/test-code-server/data/CachedExtensionVSIXs/dsznajder.es7-react-js-snippets-2.7.1
+[2020-09-03 01:24:15.725] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.dsznajder.es7-react-js-snippets-2.7.1: dsznajder.es7-react-js-snippets
+[2020-09-03 01:24:15.725] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/dsznajder.es7-react-js-snippets-2.7.1
+[2020-09-03 01:24:15.726] [remoteagent] [info] Installation completed. dsznajder.es7-react-js-snippets
+[2020-09-03 01:24:15.748] [remoteagent] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets
+[2020-09-03 01:24:19.012] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2020-09-03 01:24:19.390] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /workspace/test-code-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2020-09-03 01:24:20.956] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-09-03 01:24:20.959] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/ritwickdey.liveserver-5.6.1
+[2020-09-03 01:24:20.960] [remoteagent] [info] Installation completed. ritwickdey.liveserver
+[2020-09-03 01:24:20.991] [remoteagent] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-09-03 01:24:22.762] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2020-09-03 01:24:23.158] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /workspace/test-code-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-5.5.0
+[2020-09-03 01:24:23.291] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.esbenp.prettier-vscode-5.5.0: esbenp.prettier-vscode
+[2020-09-03 01:24:23.291] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0
+[2020-09-03 01:24:23.294] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2020-09-03 01:24:23.317] [remoteagent] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-09-03 01:24:34.019] [remoteagent] [info] Installing extension: vscode-icons-team.vscode-icons
+[2020-09-03 01:24:34.490] [remoteagent] [info] Downloaded extension: vscode-icons-team.vscode-icons /workspace/test-code-server/data/CachedExtensionVSIXs/vscode-icons-team.vscode-icons-10.0.0
+[2020-09-03 01:24:35.129] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.vscode-icons-team.vscode-icons-10.0.0: vscode-icons-team.vscode-icons
+[2020-09-03 01:24:35.129] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/vscode-icons-team.vscode-icons-10.0.0
+[2020-09-03 01:24:35.131] [remoteagent] [info] Installation completed. vscode-icons-team.vscode-icons
+[2020-09-03 01:24:35.174] [remoteagent] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2020-09-03 01:24:44.964] [remoteagent] [info] Installing extension: johnpapa.winteriscoming
+[2020-09-03 01:24:45.206] [remoteagent] [info] Downloaded extension: johnpapa.winteriscoming /workspace/test-code-server/data/CachedExtensionVSIXs/johnpapa.winteriscoming-1.4.3
+[2020-09-03 01:24:45.241] [remoteagent] [info] Extracted extension to /workspace/test-code-server/data/extensions/.johnpapa.winteriscoming-1.4.3: johnpapa.winteriscoming
+[2020-09-03 01:24:45.241] [remoteagent] [info] Renamed to /workspace/test-code-server/data/extensions/johnpapa.winteriscoming-1.4.3
+[2020-09-03 01:24:45.244] [remoteagent] [info] Installation completed. johnpapa.winteriscoming
+[2020-09-03 01:24:45.263] [remoteagent] [info] Extensions installed successfully: johnpapa.winteriscoming

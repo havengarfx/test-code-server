@@ -1,0 +1,77 @@
+Realtime Extension Download Summary
+--------------------
+TOTAL EXTENSIONS : 7
+
+
+
+[x] - EXTENSION: color-highlight - INSTALLING
+
+[x] - EXTENSION: color-highlight INSTALLED.
+      1 OF 7 INSTALLED
+
+
+[x] - EXTENSION: debugger-for-chrome - INSTALLING
+
+[x] - EXTENSION: debugger-for-chrome INSTALLED.
+      2 OF 7 INSTALLED
+
+
+[x] - EXTENSION: es7-react-js-snippets - INSTALLING
+
+[x] - EXTENSION: es7-react-js-snippets INSTALLED.
+      3 OF 7 INSTALLED
+
+
+[x] - EXTENSION: LiveServer - INSTALLING
+
+[x] - EXTENSION: LiveServer INSTALLED.
+      4 OF 7 INSTALLED
+
+
+[x] - EXTENSION: prettier-vscode - INSTALLING
+
+[x] - EXTENSION: prettier-vscode INSTALLED.
+      5 OF 7 INSTALLED
+
+
+[x] - EXTENSION: vscode-icons - INSTALLING
+
+[x] - EXTENSION: vscode-icons INSTALLED.
+      6 OF 7 INSTALLED
+
+
+[x] - EXTENSION: winteriscoming - INSTALLING
+
+[x] - EXTENSION: winteriscoming INSTALLED.
+      7 OF 7 INSTALLED
+
+CODE SETTINGS SYNC DOWNLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: 9306**********
+GitHub Gist: 54c941da48bb37da9d2da63a4451da9b
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Downloaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  color-highlight v2.3.0
+  debugger-for-chrome v4.12.9
+  es7-react-js-snippets v2.8.3
+  LiveServer v5.6.1
+  prettier-vscode v5.5.0
+  vscode-icons v10.2.0
+  winteriscoming v1.4.3
+--------------------
+Done.

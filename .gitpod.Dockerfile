@@ -6,10 +6,10 @@ USER gitpod
 # For example, the command below would install "bastet" - a command line tetris clone:
 #
 RUN sudo apt-get -q update && \
-    git-flow && \
-	graphviz && \
-    sudo curl -fsSL https://code-server.dev/install.sh | sh -s -- --dry-run && \
-    sudo curl -fsSL https://code-server.dev/install.sh | sh && \
+    git-flow \
+	graphviz \
+     curl -fsSL https://code-server.dev/install.sh | sh -s -- --dry-run && \
+    curl -fsSL https://code-server.dev/install.sh | sh && \
 
     sudo rm -rf /var/lib/apt/lists/*
 #

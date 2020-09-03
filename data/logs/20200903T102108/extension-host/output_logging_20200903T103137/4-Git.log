@@ -261,3 +261,107 @@ Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/orig
 > git remote --verbose
 Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
 > git config --get commit.template
+> git add -A -- /workspace/test-code-server/data/User/state/1179863d.json /workspace/test-code-server/data/User/state/empty-window.json /workspace/test-code-server/data/User/state/global.json /workspace/test-code-server/workspace.code-workspace /workspace/test-code-server/data/logs/20200903T102108/extension-host/exthost.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102509/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102509/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102510/3-Git.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102510/4-Prettier.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102540/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102540/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102541/3-Git.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102541/4-Prettier.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102656/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102656/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102657/3-Git.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102657/4-Prettier.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T102758/5-TypeScript.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103135/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103135/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103137/3-TypeScript.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103137/4-Git.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103137/5-Prettier.log /workspace/test-code-server/data/logs/20200903T102108/remoteagent.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/workspace/test-code-server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git add -A -- /workspace/test-code-server/data/User/state/1179863d.json /workspace/test-code-server/data/User/state/global.json /workspace/test-code-server/data/logs/20200903T102108/extension-host/exthost.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103137/4-Git.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103604/1-GitHub Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103604/2-Microsoft Authentication.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103605/3-TypeScript.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103605/4-Prettier.log /workspace/test-code-server/data/logs/20200903T102108/extension-host/output_logging_20200903T103605/5-Git.log

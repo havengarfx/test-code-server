@@ -39,3 +39,59 @@
 ["INFO" - 6:56:06 AM] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
 ["INFO" - 6:56:06 AM] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jsonl, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
 ["INFO" - 6:56:06 AM] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 7:03:23 AM] Formatting /workspace/backend/gg.js
+["INFO" - 7:03:23 AM] Using ignore file (if present) at /workspace/backend/.prettierignore
+["INFO" - 7:03:23 AM] Using bundled version of prettier.
+["INFO" - 7:03:23 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 7:03:23 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:03:23 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/workspace/backend/gg.js",
+  "parser": "babel"
+}
+["ERROR" - 7:03:23 AM] Error formatting document.
+["ERROR" - 7:03:23 AM] Unexpected token (1:1)
+> 1 | <!DOCTYPE html>
+    | ^
+  2 | <html lang="en">
+  3 | <head>
+  4 |  <meta charset="UTF-8"/>
+SyntaxError: Unexpected token (1:1)
+> 1 | <!DOCTYPE html>
+    | ^
+  2 | <html lang="en">
+  3 | <head>
+  4 |  <meta charset="UTF-8"/>
+	at t (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/node_modules/prettier/parser-babel.js:1:317)
+	at Object.parse (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/node_modules/prettier/parser-babel.js:1:291098)
+	at Object.parse (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/node_modules/prettier/index.js:13565:19)
+	at coreFormat (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/node_modules/prettier/index.js:14841:25)
+	at format (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/node_modules/prettier/index.js:15063:14)
+	at formatWithCursor (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/node_modules/prettier/index.js:15080:12)
+	at /workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/node_modules/prettier/index.js:54672:12
+	at Object.format (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/node_modules/prettier/index.js:54692:12)
+	at t.default.<anonymous> (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension.js:1:59917)
+	at Generator.next (<anonymous>)
+	at s (/workspace/test-code-server/data/extensions/esbenp.prettier-vscode-5.5.0/dist/extension.js:1:54201)
+["INFO" - 7:03:23 AM] Formatting completed in 81.110637ms.

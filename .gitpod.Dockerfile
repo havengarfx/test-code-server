@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
 	
 USER gitpod  
 
-RUN sudo curl -fsSL https://code-server.dev/install.sh | sh -s -- --dry-run 
-RUN sudo curl -fsSL https://code-server.dev/install.sh | sh 
+RUN curl -fsSL https://code-server.dev/install.sh | sh -s -- --dry-run 
+RUN curl -fsSL https://code-server.dev/install.sh | sh 
     
 # More information: https://www.gitpod.io/docs/config-docker/

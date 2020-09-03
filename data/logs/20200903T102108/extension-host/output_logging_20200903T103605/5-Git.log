@@ -28,3 +28,4 @@ Open repository: /workspace/backend
 > git cat-file -s 3b956eb4256ca1ef96a465ef1a7026adf46c3270
 > git check-ignore -v -z --stdin
 > git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

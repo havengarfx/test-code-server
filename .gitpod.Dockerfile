@@ -8,10 +8,9 @@ USER gitpod
 RUN sudo apt-get update && apt-get install -y \
         git-flow \
 	graphviz \
-	&& sudo apt-get clean && rm -rf /var/cache/apt/* && rm -rf /var/lib/apt/lists/* && rm -rf /tmp/*
+	sudo rm -rf /var/lib/apt/lists/*
     
 RUN curl -fsSL https://code-server.dev/install.sh | sh -s -- --dry-run && \
     curl -fsSL https://code-server.dev/install.sh | sh && \
-    sudo rm -rf /var/lib/apt/lists/*
-#
+    
 # More information: https://www.gitpod.io/docs/config-docker/
